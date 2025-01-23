@@ -1,0 +1,9 @@
+{
+  "name": "issue-11673",
+  "private": true,
+  "devDependencies": {
+    "@rspack/core": "workspace:*",
+    "sass-loader": "^16.0.0"
+  },
+  "dependencies": {}
+}
